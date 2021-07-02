@@ -1,0 +1,16 @@
+
+body{background-color: lightgrey ; 
+	font-family: arial;
+	}
+h1{text-align: center;}
+img {
+	border-radius: 20px;
+	width: 300px;}
+.box{
+	border: 20px darkgoldenrod solid;
+	margin:  50px;
+	padding-bottom: 50px;
+	width: 400px;
+	font-family: calibri;
+	color: green;
+}
